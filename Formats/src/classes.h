@@ -2,7 +2,7 @@
 #include <vector>
 #include <utility>
 
-namespace WWAnalysis_WWUtils {
+namespace DataUtils_Formats {
 
    struct dictionary {
 
