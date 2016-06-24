@@ -1,0 +1,10 @@
+<lcgdict>
+
+ <!--LCG REFLEX dictionary-->
+
+ <!--CTPPSTools/Filters/interface/DoubleArmFilter.cc-->
+ <class name="std::pair<size_t,size_t>"/>
+ <class name="std::vector<std::pair<size_t,size_t> >"/>
+ <class name="edm::Wrapper<std::vector<std::pair<size_t,size_t> > >"/>
+
+</lcgdict>

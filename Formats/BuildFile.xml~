@@ -1,0 +1,11 @@
+<use name="DataFormats/VertexReco"/>
+<use name="DataFormats/HepMCCandidate"/>
+<use name="DataFormats/JetReco"/>
+<use name="DataFormats/PatCandidates"/>
+<use name="DataFormats/TrackReco"/>
+<use name="DataFormats/Common"/>
+<use name="FastSimulation/PPSFastObjects"/>
+
+<export>
+   <lib name="1"/>
+</export>
