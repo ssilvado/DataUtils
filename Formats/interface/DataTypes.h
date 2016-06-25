@@ -18,10 +18,6 @@ class DataTypes {
 
   public:
 
-    // constructors and destructors
-    DataTypes(){};
-    ~DataTypes(){};
-
     // typedefs
     typedef reco::Vertex Vertex;
     typedef reco::GenParticle GenParticle;
